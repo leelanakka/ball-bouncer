@@ -1,0 +1,4 @@
+the objects for this game are paddle and ball and universe
+for paddle the main objectives are to set the y-axis position 
+paddle should move only in x-axis .
+for the ball it should move in towards the universe
